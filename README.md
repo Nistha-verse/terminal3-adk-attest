@@ -1,4 +1,4 @@
-# Terminal3 ADK Bounty Submission — Nistha
+# Terminal3 ADK Bounty Submission
 
 Terminal3 ADK community bounty: quickstart, walkthrough, and a custom TEE
 contract function extending the reference example.
