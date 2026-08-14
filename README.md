@@ -1,4 +1,4 @@
-# Terminal3 ADK Bounty Submission — Nistha
+# Terminal3 ADK Bounty Submission
 
 Terminal3 ADK community bounty: quickstart, walkthrough, and a custom TEE
 contract function extending the reference example.
@@ -60,4 +60,13 @@ model actually saw, not just trusted. See `USE_CASE.md` for the full writeup.
 
 ## Screenshots
 
-See `/screenshots`.
+# <img width="806" height="46" alt="Screenshot 2026-08-10 202113" src="https://github.com/user-attachments/assets/33e6a5f9-4cc5-4c5d-ba6e-d69aaa620cfb" />
+
+
+# <img width="1228" height="457" alt="Screenshot 2026-08-11 210729" src="https://github.com/user-attachments/assets/1f83df61-fd58-4283-a1dd-b3a6c4d980a1" />
+
+
+# <img width="906" height="413" alt="Screenshot 2026-08-11 222305" src="https://github.com/user-attachments/assets/b3d0cff5-7c99-48ea-a040-30f79186ba89" />
+
+
+
