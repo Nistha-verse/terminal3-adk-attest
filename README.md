@@ -59,14 +59,19 @@ model actually saw, not just trusted. See `USE_CASE.md` for the full writeup.
    down the stack rather than a clear "key not set" message.
 
 ## Screenshots
-
+**1. Quickstart — connected and authenticated**
 # <img width="806" height="46" alt="Screenshot 2026-08-10 202113" src="https://github.com/user-attachments/assets/33e6a5f9-4cc5-4c5d-ba6e-d69aaa620cfb" />
 
-
+**2. TEE contract build — clean release build**
 # <img width="1228" height="457" alt="Screenshot 2026-08-11 210729" src="https://github.com/user-attachments/assets/1f83df61-fd58-4283-a1dd-b3a6c4d980a1" />
 
+**3. Register → create map → invoke `attest-source` (end-to-end testnet run)**
+# <img width="1453" height="262" alt="Screenshot 2026-08-14 194152" src="https://github.com/user-attachments/assets/279b0c61-0f16-4ca2-9b99-30591e804ca1" />
 
-# <img width="906" height="413" alt="Screenshot 2026-08-11 222305" src="https://github.com/user-attachments/assets/b3d0cff5-7c99-48ea-a040-30f79186ba89" />
+**4. Unit tests — 7/7 passing**
+# <img width="1055" height="422" alt="Screenshot 2026-08-14 142157" src="https://github.com/user-attachments/assets/fcf614fb-f44a-4567-bccc-bb2691d49f3d" />
+
+
 
 
 
